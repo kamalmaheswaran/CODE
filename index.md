@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+hi and welcome to ninja
 
 You can use the [editor on GitHub](https://github.com/kamalmaheswaran/ninja/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
